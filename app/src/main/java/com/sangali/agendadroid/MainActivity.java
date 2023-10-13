@@ -11,6 +11,6 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Toast.makeText(this, "Rodrigo Sangali", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Rodrigo Sangali!", Toast.LENGTH_LONG).show();
     }
 }
